@@ -8,9 +8,9 @@ into code. In the end, this personal project became quite hard to get working pr
 comfortable with NumPy and also revisited some linear algebra. After all, the main goal was to deepen my programming skills, so I am satisfied with the result.
 
 ## Content:
-- There is code dealing with problem 1 in .py script, along with solution in Jupyter notebook.
-- Details are described in report.pdf - this file contains commented code, along with bits of underlying theory used
-- The file problem2.ipynb contains solution in Jupyter notebook of 2D problem, where the hyperplane is fitted to measured points
+- There is code dealing with [problem 1](problem_1_code.py) in .py script, along with solution in [Jupyter notebook](problem_1.ipynb).
+- Details are described in [this report](report.pdf) - this file contains commented code, along with bits of underlying theory used
+- [This file](problem_2.ipynb) contains solution in Jupyter notebook of 2D problem, where the hyperplane is fitted to measured points
 
 ## Why MLS ?
 Long story short - MLS algorithm can produce a good fit to the data using just low orders of polynomial basis. For example, in the picture below, we can get "closer" fit 
@@ -24,4 +24,3 @@ into working code. This would be the main suggestion how to improve the code in 
 
 
 ![alt text](https://github.com/viliam-gago/moving_least_squares/blob/master/img/comparison.png?raw=true)
-[a relative link](report.pdf)
