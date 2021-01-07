@@ -8,7 +8,7 @@ into code. In the end, this personal project became quite hard to get working pr
 comfortable with NumPy and also revisited some linear algebra. After all, the main goal was to deepen my programming skills, so I am satisfied with the result.
 
 ## Content:
-- There is code dealing with [problem 1](problem_1_code.py) in .py script, along with solution in [Jupyter notebook](problem_1.ipynb).
+- There is code dealing with problem 1 in .py [script](problem_1_code.py), along with solution in [Jupyter notebook](problem_1.ipynb).
 - Details are described in [this report](report.pdf) - this file contains commented code, along with bits of underlying theory used
 - [This file](problem_2.ipynb) contains solution in Jupyter notebook of 2D problem, where the hyperplane is fitted to measured points
 
