@@ -24,3 +24,4 @@ into working code. This would be the main suggestion how to improve the code in 
 
 
 ![alt text](https://github.com/viliam-gago/moving_least_squares/blob/master/img/comparison.png?raw=true)
+[a relative link](report.pdf)
